@@ -1,3 +1,7 @@
+let switchWins = 0;
+let switchLosses = 0;
+let stayWins = 0;
+let stayLosses = 0;
 let doors = ["염소", "염소", "자동차"]; // 3개의 문 (랜덤으로 섞임)
 let userChoice = null;
 let montyOpens = null;
